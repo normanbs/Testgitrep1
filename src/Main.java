@@ -3,3 +3,12 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+
+/*Hei på deg
+
+ */
+
+
+/* Videre testting
+
+ */
