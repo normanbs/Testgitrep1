@@ -22,3 +22,5 @@ public class Main {
 // Lorem ipsum kommentar1
 
 //Test nr 5 av commit og pull
+
+//Test nr 6 av commit and pull
