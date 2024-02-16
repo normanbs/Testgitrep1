@@ -18,3 +18,5 @@ public class Main {
  */
 
 //terminal test
+
+// Lorem ipsum kommentar1
