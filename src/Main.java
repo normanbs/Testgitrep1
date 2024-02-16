@@ -24,3 +24,5 @@ public class Main {
 //Test nr 5 av commit og pull
 
 //Test nr 6 av commit and pull
+
+//Test nr 7 av comit and pull
